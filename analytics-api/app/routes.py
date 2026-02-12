@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 from dal import top_10_customers
+
 route = APIRouter()
 
 
